@@ -1,18 +1,18 @@
 /**
  * 🏹 Search Insert Position - Binary Search (O(log n))
- *
+ 
  * ✅ Given a sorted array of distinct integers and a target value:
  *    - If found, return its index.
  *    - If not found, return the index where it should be inserted.
  * ✅ Must run in O(log n) time complexity.
- *
+ 
  * 📌 Example:
  *    Input: nums = [1,3,5,6], target = 5  → Output: 2
  *    Input: nums = [1,3,5,6], target = 2  → Output: 1
- *
+ 
  * 🔥 Uses Binary Search for efficiency.
- * Author: Your Name
- * GitHub: https://github.com/yourusername
+   
+ * GitHub: https://github.com/shrutilad20
  */
 
 class SearchInsertPosition {
