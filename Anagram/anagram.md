@@ -12,6 +12,8 @@ Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and `f
 
 ### 🔗 Problem Link:
 [Valid Anagram – LeetCode](https://leetcode.com/problems/valid-anagram/description/)
+[Valid Anagram – Geeksforgeeks](https://www.geeksforgeeks.org/problems/anagram-1587115620/1)
+[Valid Anagram – Neetcode](https://neetcode.io/problems/is-anagram?list=neetcode150)
 
 ---
 
@@ -24,6 +26,7 @@ t = "silent"
 
 Output:
 Strings are anagrams
+
 🛠️ Solution Approach
 The algorithm follows these steps:
 
@@ -55,11 +58,25 @@ Make sure you have Java installed on your system.
 
 Save the code in a file named Anagram.java.
 
-Open terminal and run:
+Code :
+package Anagram;
+import java.util.Arrays;
 
-bash
-Copy
-Edit
+public class Anagram{
+    public static void main(String[] args) {
+        public static boolean areAnagram(String s, String t){
+            if(s.length()!=t.length()) return false;
+             char[] a1=s.toCharArray();
+             char [] a2=t.toCharArray();
+                    Arrays.sort(a1);
+                     Arrays.sort(a2);
+        return Arrays.equals(a1,a2);
+}
+    }}
+
+add the main code by your own..
+
+Open terminal and run:
 javac Anagram.java
 java Anagram
 📷 Visual Explanation
