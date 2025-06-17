@@ -8,7 +8,8 @@ Given an array `nums` containing `n` distinct numbers in the range `[0, n]`, ret
 # 🔢 Missing Number
 
 [Link to the Problem → LeetCode #268](https://leetcode.com/problems/missing-number/)
- [Geeks For Geeks] (https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1)
+
+[Link to the Problem → Geeks for geeks](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1)
 ---
 
 ### 📌 Constraints:
