@@ -4,6 +4,13 @@
 
 Given an array `nums` containing `n` distinct numbers in the range `[0, n]`, return the only number in the range that is **missing** from the array.
 
+
+# 🔢 Missing Number
+
+[Link to the Problem → LeetCode #268](https://leetcode.com/problems/missing-number/)
+ [Geeks For Geeks] (https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1)
+---
+
 ### 📌 Constraints:
 - `n == nums.length`
 - `0 <= nums[i] <= n`
@@ -16,11 +23,6 @@ Given an array `nums` containing `n` distinct numbers in the range `[0, n]`, ret
 ```java
 nums = [0, 1]
 
-# 🔢 Missing Number
-
-[Link to the Problem → LeetCode #268](https://leetcode.com/problems/missing-number/)
- [Geeks For Geeks] (https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1)
----
 ### Code
 
 class Solution {
