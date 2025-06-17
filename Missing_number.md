@@ -13,7 +13,6 @@ Given an array `nums` containing `n` distinct numbers in the range `[0, n]`, ret
 
 ## ✅ Example
 
-### Input:
 ```java
 nums = [0, 1]
 
