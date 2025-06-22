@@ -1,4 +1,5 @@
 public class removeduplicatesfromsortedarray {
+    //function 
     public int removeduplicates(int nums[]){
         if(nums.length==0){
             return 0;
