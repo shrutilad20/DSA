@@ -106,12 +106,15 @@ class Solution {
     }
 }
 
-🔗 References
+## 🔗 References
 
-[LeetCode - Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ "LeetCode Problem")
+[LeetCode - Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ "LeetCode Problem")  
 
-[GeeksforGeeks](https://www.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1)
+[GeeksforGeeks](https://www.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1 "GFG Problem")  
 
-🎯 Tags
+---
 
-#Java #BinarySearch #Arrays #LeetCode #GFG #Algorithm
+## 🎯 Tags
+
+`#Java` `#BinarySearch` `#Arrays` `#LeetCode` `#GFG` `#Algorithm`
+
